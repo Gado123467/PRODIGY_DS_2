@@ -27,6 +27,11 @@ The dataset includes the following key columns:
 * `Fare`: Ticket fare
 
 ## Tools & Libraries
+python
+
+pandas – Dataset handling and submission file creation
+
+numpy – Data manipulation and logical operations
 
 
 ## Use Cases
