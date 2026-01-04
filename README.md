@@ -28,9 +28,6 @@ The dataset includes the following key columns:
 
 ## Tools & Libraries
 
-Tableau
-
-
 
 ## Use Cases
 
@@ -38,8 +35,36 @@ Tableau
 * Exploring survival patterns
 * Conducting exploratory data analysis (EDA) for machine learning or statistical studies
 
-## Conclusion
 
----
 
-*This project emphasizes clear and effective visual representation of Titanic passenger data.*
+##Goal
+
+Understand the Titanic dataset structure
+
+Implement a simple rule-based classification model
+
+Generate a valid Kaggle submission file
+
+Establish a baseline accuracy for future improvements
+
+## Methodology
+
+Load training and test datasets
+
+Apply a simple rule:
+
+Female → Survived (1)
+
+Male → Not Survived (0)
+
+Generate predictions for the test set
+
+Create the gender_submission.csv file
+
+## Results
+
+The gender-based approach provides a strong baseline accuracy
+
+Demonstrates the importance of feature selection
+
+Serves as a reference point for more advanced model
