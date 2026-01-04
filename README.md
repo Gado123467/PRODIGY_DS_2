@@ -42,7 +42,7 @@ numpy – Data manipulation and logical operations
 
 
 
-##Goal
+## Goal
 
 Understand the Titanic dataset structure
 
