@@ -1,7 +1,7 @@
 # PRODIGY_DS_2
 
 
-# Titanic Dataset Visualization: Bar Chart & Histogram
+# Titanic Dataset Visualization: 
 
 ## Overview
 
@@ -28,25 +28,9 @@ The dataset includes the following key columns:
 
 ## Tools & Libraries
 
-* Python
-* Pandas (data handling)
-* Matplotlib or Seaborn (visualization)
+Tableau
 
-## Steps
 
-1. Load the Titanic dataset
-2. Select variables to analyze (categorical or continuous)
-3. Choose the appropriate chart type:
-
-   * Bar chart for categorical variables (e.g., `Sex`, `Pclass`, `Survived`)
-   * Histogram for continuous variables (e.g., `Age`, `Fare`)
-4. Plot the chart
-5. Interpret the distribution and patterns
-
-## Example Visualizations
-
-* **Bar Chart**: Count of passengers by gender or survival status
-* **Histogram**: Distribution of passenger ages or fares
 
 ## Use Cases
 
@@ -55,8 +39,6 @@ The dataset includes the following key columns:
 * Conducting exploratory data analysis (EDA) for machine learning or statistical studies
 
 ## Conclusion
-
-Bar charts and histograms are essential tools to visualize the Titanic dataset. They help uncover patterns in passenger demographics, class distribution, and survival, supporting deeper insights into historical data.
 
 ---
 
